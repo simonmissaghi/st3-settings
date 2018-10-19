@@ -1,0 +1,7 @@
+{
+    // Character threshold to search
+    "search_threshold": 10000,
+
+    // Ignore threshold
+    "ignore_threshold": true
+}

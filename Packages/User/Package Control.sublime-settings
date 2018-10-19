@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"BracketHighlighter",
+		"CommentBanner",
+		"EditorConfig",
+		"Emmet",
+		"IndentTips",
+		"LESS",
+		"Material Theme",
+		"Normalize Indentation",
+		"Package Control",
+		"R_comments",
+		"Sass",
+		"SassBeautify",
+		"SCSS",
+		"SideBarEnhancements",
+		"SideBarTools"
+	]
+}

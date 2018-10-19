@@ -1,0 +1,9 @@
+Dark Material Theme for Sublime Text 3
+https://github.com/artifactdev/Theme-Dark-Material/
+
+********************************************************************************
+
+## Release 1.0.2
+
+    - fixed some light bugs
+    - added some enhancements

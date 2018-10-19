@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[@include]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>inc</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+  <description>Add include tag</description>
+</snippet>
+
+<snippet>
+  <content><![CDATA[@include media-breakpoint-up() {}]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>break</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+  <description>Add media queries tag</description>
+</snippet>
+

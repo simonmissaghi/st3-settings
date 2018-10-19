@@ -1,0 +1,2934 @@
+{
+	"folder_history":
+	[
+		"/C/www/MECB",
+		"/M/artcon",
+		"/M/artcon/node_modules",
+		"/M/artcon/dist",
+		"/M/artcon/src",
+		"/C/www/MECB/sites",
+		"/C/www/rendezvouspedagogique",
+		"/C/Users/machinist/Desktop/less",
+		"/C/www/expansion",
+		"/C/www/exp",
+		"/C/www/expansion.be",
+		"/C/Users/machinist/Desktop/expansion/ftp",
+		"/C/www/bassinefe",
+		"/M/go",
+		"/M/maps_go",
+		"/M/FIDM",
+		"/M/maps_go/mapsicon/all",
+		"/M/simonmissaghi.be",
+		"/M/wordpress/wp-content/themes/numastec",
+		"/M/wordpress",
+		"/M/wp_toolbox",
+		"/M/numastec2",
+		"/M/numastec",
+		"/M/numastec/src",
+		"/C/Users/machinist/Desktop/backup_fonctionnel",
+		"/M/alphabet",
+		"/M/url_shortener",
+		"/F/Ecole/B2/tfa session aout/code/img/svg",
+		"/M/tfe_final",
+		"/M/tfe_final - Copie/src/sass/project/layout",
+		"/M/tfe/toolbox",
+		"/M/gulp_toolbox",
+		"/C/Users/machinist/AppData/Roaming/Sublime Text 3",
+		"/C/Users/machinist/AppData/Roaming/Sublime Text 3/Packages",
+		"/M/dwa/dwa2",
+		"/M/tfe",
+		"/C/wamp64/www",
+		"/F/wamp64/www",
+		"/M/simonmissaghi_V2",
+		"/M/toolbox_4",
+		"/M/toolbox_3",
+		"/C/Users/machinist/Desktop/Standalone",
+		"/M/simonmissaghi",
+		"/M/toolbox_2",
+		"/M/toolbox",
+		"/F/WEB/projects/_toolbox",
+		"/C/Users/machinist/Desktop/toolbox",
+		"/F/Ecole/B3/codes_divers"
+	],
+	"last_version": 3176,
+	"last_window_id": 169,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 664.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"break",
+						"breakdown\tAdd media query down"
+					],
+					[
+						"brea",
+						"breakdown\tAdd media query down"
+					],
+					[
+						"value",
+						"valueAttr"
+					],
+					[
+						"check",
+						"checkCol"
+					],
+					[
+						"country",
+						"countryArray"
+					],
+					[
+						"countr",
+						"countryArray"
+					],
+					[
+						"all",
+						"allCountries"
+					],
+					[
+						"iso",
+						"isoCountry"
+					],
+					[
+						"option",
+						"optionButton"
+					],
+					[
+						"opti",
+						"optionButton"
+					],
+					[
+						"op",
+						"optionButton"
+					],
+					[
+						"bre",
+						"breakup\tAdd media query up"
+					],
+					[
+						"m",
+						"myChart"
+					],
+					[
+						"bar",
+						"barChart"
+					],
+					[
+						"data",
+						"data1"
+					],
+					[
+						"is",
+						"isScrolledIntoView"
+					],
+					[
+						"M",
+						"myLineChart"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"legen",
+						"legendContainer"
+					],
+					[
+						"top",
+						"topChart"
+					],
+					[
+						"contai",
+						"containerSlides"
+					],
+					[
+						"uniq",
+						"uniqName"
+					],
+					[
+						"submi",
+						"submitInput"
+					],
+					[
+						"artic",
+						"articlePerPage"
+					],
+					[
+						"ar",
+						"articleTotal"
+					],
+					[
+						"add",
+						"addEventListener"
+					],
+					[
+						"sq8all",
+						"sq8all"
+					],
+					[
+						"get",
+						"getJSON"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"jso",
+						"json_encode"
+					],
+					[
+						"sm",
+						"smq8Option"
+					],
+					[
+						"8",
+						"8"
+					],
+					[
+						"cross",
+						"crossBtn"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"radio",
+						"radioChecked"
+					],
+					[
+						"total",
+						"totalAnswersNetworks"
+					],
+					[
+						"focus",
+						"focusOnTextInput"
+					],
+					[
+						"quer",
+						"querySelectorAll"
+					],
+					[
+						"color-",
+						"color-smartphones-second"
+					],
+					[
+						"pre",
+						"preambule_3"
+					],
+					[
+						"prepare",
+						"preparedPercentage"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"pream",
+						"preambule_3"
+					],
+					[
+						"va",
+						"var_dump"
+					],
+					[
+						"ce",
+						"cellspacing\tAttr"
+					],
+					[
+						"prepa",
+						"preparedStatement"
+					],
+					[
+						"bd",
+						"bdRight"
+					],
+					[
+						"nav",
+						"navWrapper"
+					],
+					[
+						"html",
+						"htmlElement"
+					],
+					[
+						"brows",
+						"browserSync"
+					],
+					[
+						"al",
+						"alt\tAttr"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 183.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"synta",
+						"Set Syntax: SCSS"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"sass",
+						"SassBeautify"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package contr",
+						"Package Control: Install Package"
+					],
+					[
+						"Package",
+						"Package Control: Install Package"
+					],
+					[
+						"control",
+						"Package Control: Add Channel"
+					],
+					[
+						"emmet",
+						"Toggle Comment"
+					],
+					[
+						"mati",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"Package Control",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 131.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/node/node--realisation.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/scripts/main.js",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/pages/_page_intern.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/pages/_homepage.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/pages/_realisations.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/header.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/layouts/_main.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/layouts/page/_form.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/components/_swiper.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/layouts/_header.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/layouts/header/_navigation.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/pages/_page_user.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/main.scss",
+				"/F/Ecole/B3/codes_divers/test_mobilefirst.html",
+				"/F/Ecole/B3/codes_divers/exemple_responsive_cours_trhonte/index.html",
+				"/C/Users/machinist/Desktop/belspo.html",
+				"/C/Users/machinist/Desktop/belspo_fianl/BELSPO.html",
+				"/C/Users/machinist/Desktop/biow-logos.html",
+				"/C/Users/machinist/Desktop/backup_biow.html",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/paragraphs/paragraphs-item--evidence.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/paragraphs/paragraphs-item--texte.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/content.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/paragraphs/paragraphs-item--cta.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/html.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/node/node--page.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/components/_buttons.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/gulpfile.js",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/paragraphs/paragraphs-item--galerie.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/layouts/page/_type.scss",
+				"/C/Users/machinist/Desktop/test_lhoist-template.html",
+				"/C/Users/machinist/Desktop/test_biow.html",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/node/node--home.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/ckeditor.styles.js",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/views/views-view.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/footer.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/layouts/_footer.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/base/_custom.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/scripts/functions.js",
+				"/M/gulp_toolbox/src/sass/project/_mixins.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/base/_bootstrap.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/base/_fonts.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/layouts/page/_paragraphs-cta.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/node_modules/bootstrap/scss/bootstrap.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/node_modules/bootstrap/scss/_mixins.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/base/_drupal.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/dist/images/logo.svg",
+				"/C/Users/machinist/Desktop/lhoist.html",
+				"//192.168.1.9/Expansion/Clients/Studio-Digital/LHOISA-16-16390-Newsletter-220916/LHOISA-16-17220-HTML/index03.html",
+				"//192.168.1.9/Expansion/Clients/Studio-Digital/LHOISA-16-16390-Newsletter-220916/LHOISA-16-17220-HTML/index02.html",
+				"/C/Users/machinist/Desktop/biow-email.html",
+				"/C/Users/machinist/AppData/Local/Temp/fz3temp-2/connection.php",
+				"/C/Users/machinist/Desktop/emailing.html",
+				"/C/www/home/ssh/id_rsa.pub",
+				"/C/www/id_rsa.pub",
+				"/C/Users/machinist/AppData/Local/Temp/fz3temp-2/connexion.php",
+				"/M/go/dist/javascript/main.js",
+				"/M/go/dist/countries.json",
+				"/M/go/src/javascript/main.js",
+				"/M/go/src/index.php",
+				"/M/FIDM/src/sass/project/_variables.scss",
+				"/M/FIDM/src/sass/project/_mixins.scss",
+				"/M/FIDM/src/sass/project/_base.scss",
+				"/M/FIDM/src/sass/project/modules/animations.scss",
+				"/M/FIDM/src/sass/styles.scss",
+				"/M/FIDM/src/sass/project/_typography.scss",
+				"/M/go/src/sass/project/layout/form.scss",
+				"/M/go/src/sass/project/_base.scss",
+				"/M/go/src/sass/project/_mixins.scss",
+				"/M/go/src/sass/project/_variables.scss",
+				"/M/maps_go/countries.json",
+				"/M/maps_go/mapsicon/all/as/vector.svg",
+				"/M/maps_go/mapsicon/all/au/vector.svg",
+				"/M/maps_go/mapsicon/all/at/vector.svg",
+				"/M/maps_go/index.html",
+				"/M/maps_go/mapsicon/all/at/vector1.svg",
+				"/M/maps_go/mapsicon/all/aw/vector.svg",
+				"/M/maps_go/mapsicon/all/ax/vector.svg",
+				"/M/maps_go/mapsicon/all/az/vector.svg",
+				"/M/maps_go/mapsicon/all/ba/vector.svg",
+				"/M/maps_go/mapsicon/all/bb/vector.svg",
+				"/M/maps_go/mapsicon/all/bd/vector.svg",
+				"/M/maps_go/mapsicon/all/be/vector.svg",
+				"/M/maps_go/mapsicon/all/bf/vector.svg",
+				"/M/maps_go/mapsicon/all/bg/vector.svg",
+				"/M/maps_go/mapsicon/all/bh/vector.svg",
+				"/M/maps_go/mapsicon/all/bi/vector.svg",
+				"/M/maps_go/mapsicon/all/bj/vector.svg",
+				"/M/maps_go/mapsicon/all/bl/vector.svg",
+				"/M/maps_go/mapsicon/all/bm/vector.svg",
+				"/M/maps_go/mapsicon/all/bn/vector.svg",
+				"/M/maps_go/mapsicon/all/bo/vector.svg",
+				"/M/maps_go/mapsicon/all/bq/vector.svg",
+				"/M/maps_go/mapsicon/all/br/vector.svg",
+				"/M/maps_go/mapsicon/all/bs/vector.svg",
+				"/M/maps_go/mapsicon/all/bt/vector.svg",
+				"/M/maps_go/mapsicon/all/bv/vector.svg",
+				"/M/maps_go/mapsicon/all/bw/vector.svg",
+				"/M/maps_go/mapsicon/all/by/vector.svg",
+				"/M/maps_go/mapsicon/all/bz/vector.svg",
+				"/M/maps_go/mapsicon/all/ca/vector.svg",
+				"/M/maps_go/mapsicon/all/cc/vector.svg",
+				"/M/maps_go/mapsicon/all/cd/vector.svg",
+				"/M/maps_go/mapsicon/all/cf/vector.svg",
+				"/M/maps_go/mapsicon/all/cg/vector.svg",
+				"/M/maps_go/mapsicon/all/ch/vector.svg",
+				"/M/maps_go/mapsicon/all/ci/vector.svg",
+				"/M/maps_go/mapsicon/all/ck/vector.svg",
+				"/M/maps_go/mapsicon/all/cl/vector.svg",
+				"/M/maps_go/mapsicon/all/cm/vector.svg",
+				"/M/maps_go/mapsicon/all/cn/vector.svg",
+				"/M/maps_go/mapsicon/all/co/vector.svg",
+				"/M/maps_go/mapsicon/all/cr/vector.svg",
+				"/M/maps_go/mapsicon/all/cu/vector.svg",
+				"/M/maps_go/mapsicon/all/cv/vector.svg",
+				"/M/maps_go/mapsicon/all/cw/vector.svg",
+				"/M/maps_go/mapsicon/all/cx/vector.svg",
+				"/M/maps_go/mapsicon/all/cy/vector.svg",
+				"/M/maps_go/mapsicon/all/cz/vector.svg",
+				"/M/maps_go/mapsicon/all/de/vector.svg",
+				"/M/maps_go/mapsicon/all/dj/vector.svg",
+				"/M/maps_go/mapsicon/all/dk/vector.svg",
+				"/M/maps_go/mapsicon/all/dm/vector.svg",
+				"/M/maps_go/mapsicon/all/do/vector.svg",
+				"/M/maps_go/mapsicon/all/dz/vector.svg",
+				"/M/maps_go/mapsicon/all/ec/vector.svg",
+				"/M/maps_go/mapsicon/all/ee/vector.svg",
+				"/M/maps_go/mapsicon/all/eg/vector.svg",
+				"/M/maps_go/mapsicon/all/eh/vector.svg"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 206.0,
+				"where_history":
+				[
+					"C:\\www\\MECB\\sites\\all\\themes\\custom\\expansion\\assets\\styles\\layouts"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"trigger-menu ",
+					"right: 0",
+					"primary",
+					"ul > li:hover ",
+					"ul > li:hover >.nolink",
+					"#nav>ul>li:hover>.nolink",
+					"darke",
+					"trigger-men",
+					"right",
+					".realisation:first-child",
+					"view-realisations",
+					"seconda",
+					"secondary-nav",
+					"scroll",
+					"secondary-nav"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 86.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"M:\\list_projects\\simonmissaghi.be.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 424.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1074.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bre",
+						"breakdown\tAdd media query down"
+					],
+					[
+						"btn",
+						"btnClose"
+					],
+					[
+						"break",
+						"breakup\tAdd media query up"
+					],
+					[
+						"brea",
+						"breakdown\tAdd media query down"
+					],
+					[
+						"value",
+						"valueAttr"
+					],
+					[
+						"check",
+						"checkCol"
+					],
+					[
+						"country",
+						"countryArray"
+					],
+					[
+						"countr",
+						"countryArray"
+					],
+					[
+						"all",
+						"allCountries"
+					],
+					[
+						"iso",
+						"isoCountry"
+					],
+					[
+						"option",
+						"optionButton"
+					],
+					[
+						"opti",
+						"optionButton"
+					],
+					[
+						"op",
+						"optionButton"
+					],
+					[
+						"m",
+						"myChart"
+					],
+					[
+						"bar",
+						"barChart"
+					],
+					[
+						"data",
+						"data1"
+					],
+					[
+						"is",
+						"isScrolledIntoView"
+					],
+					[
+						"M",
+						"myLineChart"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"legen",
+						"legendContainer"
+					],
+					[
+						"top",
+						"topChart"
+					],
+					[
+						"contai",
+						"containerSlides"
+					],
+					[
+						"uniq",
+						"uniqName"
+					],
+					[
+						"submi",
+						"submitInput"
+					],
+					[
+						"artic",
+						"articlePerPage"
+					],
+					[
+						"ar",
+						"articleTotal"
+					],
+					[
+						"add",
+						"addEventListener"
+					],
+					[
+						"sq8all",
+						"sq8all"
+					],
+					[
+						"get",
+						"getJSON"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"jso",
+						"json_encode"
+					],
+					[
+						"sm",
+						"smq8Option"
+					],
+					[
+						"8",
+						"8"
+					],
+					[
+						"cross",
+						"crossBtn"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"radio",
+						"radioChecked"
+					],
+					[
+						"total",
+						"totalAnswersNetworks"
+					],
+					[
+						"focus",
+						"focusOnTextInput"
+					],
+					[
+						"quer",
+						"querySelectorAll"
+					],
+					[
+						"color-",
+						"color-smartphones-second"
+					],
+					[
+						"pre",
+						"preambule_3"
+					],
+					[
+						"prepare",
+						"preparedPercentage"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"pream",
+						"preambule_3"
+					],
+					[
+						"va",
+						"var_dump"
+					],
+					[
+						"ce",
+						"cellspacing\tAttr"
+					],
+					[
+						"prepa",
+						"preparedStatement"
+					],
+					[
+						"bd",
+						"bdRight"
+					],
+					[
+						"nav",
+						"navWrapper"
+					],
+					[
+						"html",
+						"htmlElement"
+					],
+					[
+						"brows",
+						"browserSync"
+					],
+					[
+						"al",
+						"alt\tAttr"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/M/artcon/src/sass/project/layout/form.scss",
+					"settings":
+					{
+						"buffer_size": 300,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "\n    <header id=\"header\">\n        <p>Menu</p>\n    </header>\n    <nav id=\"nav\" class=\"nav\">\n        <a href=\"#\" class=\"close\"></a>\n        <ul>\n            <li><a href=\"/\">Home</a></li>\n            <li><a href=\"/\">Search</a></li>\n            <li><a href=\"add.php\">Add a new</a></li>\n            <li><a href=\"/\">Download</a></li>\n            <li><a href=\"/\">How to</a></li>\n        </ul>\n    </nav>\n    <main id=\"main\" class=\"swiper-container\">\n        <div class=\"swiper-wrapper\">\n            <?php foreach($results as $result): ?>\n                <div class=\"swiper-slide\">\n                    <div class=\"imgwrapper\" style=\"background-image: url('php/<?php echo $result['img'] ?>')\">\n\n                    </div>\n                    <div class=\"infowrapper\">\n                        <ul>\n                            <li class=\"\"><span  class=\"no-visible\"><?php echo $result['artiste'] ?></span></li>\n                            <li class=\"\"><span  class=\"no-visible\"><?php echo $result['oeuvre'] ?></span></li>\n                            <li class=\"\"><span  class=\"no-visible\"><?php echo $result['mouvement'] ?></span></li>\n                            <li class=\"\"><span  class=\"no-visible\"><?php echo $result['annee'] ?></span></li>\n                        </ul>\n                    </div>\n                </div>\n            <?php endforeach; ?>\n        </div>\n    </main>\n    <footer>\n    </footer>",
+					"settings":
+					{
+						"buffer_size": 1401,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/M/artcon/dist/index.php",
+					"settings":
+					{
+						"buffer_size": 1887,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/M/artcon/src/sass/project/layout/header.scss",
+					"settings":
+					{
+						"buffer_size": 117,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "!Packages\nPackages/*\n!Packages/User\nPackages/User/*\n!Packages/User/*.sublime-keymap\n!Packages/User/*.sublime-settings\n!Packages/User/*.sublime-build\n!Installed Packages\nInstalled Packages/*\n!Installed Packages/Package Control.sublime-package",
+					"file": "/C/Users/machinist/AppData/Roaming/Sublime Text 3/.gitignore",
+					"file_size": 13,
+					"file_write_time": 131398363960000000,
+					"settings":
+					{
+						"buffer_size": 241,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\n    <header id=\"header\">\n        <p>Menu</p>\n    </header>\n    <nav id=\"nav\" class=\"nav\">\n        <a href=\"#\" class=\"close\"></a>\n        <ul>\n            <li><a href=\"/\">Home</a></li>\n            <li><a href=\"/\">Search</a></li>\n            <li><a href=\"add.php\">Add a new</a></li>\n            <li><a href=\"/\">Download</a></li>\n            <li><a href=\"/\">How to</a></li>\n        </ul>\n    </nav>\n    <main id=\"main\" class=\"swiper-container\">\n        <div class=\"swiper-wrapper\">\n            <?php foreach($results as $result): ?>\n                <div class=\"swiper-slide\">\n                    <div class=\"imgwrapper\" style=\"background-image: url('php/<?php echo $result['img'] ?>')\">\n\n                    </div>\n                    <div class=\"infowrapper\">\n                        <ul>\n                            <li class=\"\"><span  class=\"no-visible\"><?php echo $result['artiste'] ?></span></li>\n                            <li class=\"\"><span  class=\"no-visible\"><?php echo $result['oeuvre'] ?></span></li>\n                            <li class=\"\"><span  class=\"no-visible\"><?php echo $result['mouvement'] ?></span></li>\n                            <li class=\"\"><span  class=\"no-visible\"><?php echo $result['annee'] ?></span></li>\n                        </ul>\n                    </div>\n                </div>\n            <?php endforeach; ?>\n        </div>\n    </main>\n    <footer>\n    </footer>",
+					"settings":
+					{
+						"buffer_size": 1401,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/M/artcon/dist/javascript/main.js",
+					"settings":
+					{
+						"buffer_size": 1053,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/M/artcon/src/sass/project/layout/page.scss",
+					"settings":
+					{
+						"buffer_size": 1834,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/M/artcon/src/sass/bootstrap4/_variables.scss",
+					"settings":
+					{
+						"buffer_size": 35978,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 183.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"synta",
+						"Set Syntax: SCSS"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"sass",
+						"SassBeautify"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package contr",
+						"Package Control: Install Package"
+					],
+					[
+						"Package",
+						"Package Control: Install Package"
+					],
+					[
+						"control",
+						"Package Control: Add Channel"
+					],
+					[
+						"emmet",
+						"Toggle Comment"
+					],
+					[
+						"mati",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"Package Control",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 131.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/M/artcon/src",
+				"/M/artcon/src/sass",
+				"/M/artcon/src/sass/project",
+				"/M/artcon/src/sass/project/layout",
+				"/M/artcon/dist"
+			],
+			"file_history":
+			[
+				"/M/gulp_toolbox/.gitignore",
+				"/C/Users/machinist/Desktop/belspo1910/index.html",
+				"/C/wamp64/bin/apache/apache2.4.27/conf/extra/httpd-vhosts.conf",
+				"/M/artcon/dist/php/all_entries.php",
+				"/C/wamp64/bin/apache/apache2.4.27/bin/php.ini",
+				"/M/artcon/src/sass/project/_variables.scss",
+				"/M/artcon/src/sass/project/layout/page.scss",
+				"/M/artcon/dist/php/insert.php",
+				"/M/artcon/dist/php/connexion.php",
+				"/M/artcon/dist/add.php",
+				"/C/Users/machinist/Desktop/expansion/ftp/expansion/bootstrap/js/tests/vendor/jquery.min.js",
+				"/M/artcon/src/sass/bootstrap4/_variables.scss",
+				"/M/artcon/src/sass/project/_base.scss",
+				"/M/artcon/src/sass/styles.scss",
+				"/M/artcon/src/sass/project/layout/animations.scss",
+				"/M/artcon/src/sass/project/layout/nav.scss",
+				"/M/artcon/src/sass/project/_typography.scss",
+				"/M/FIDM/src/sass/_typography.scss",
+				"/M/FIDM/src/sass/project/_variables.scss",
+				"/M/artcon/src/sass/project/_mixins.scss",
+				"/M/FIDM/src/sass/project/_mixins.scss",
+				"/M/FIDM/src/sass/project/_base.scss",
+				"/M/artcon/.gitignore",
+				"/M/artcon/gulpfile.js",
+				"/M/artcon/package.json",
+				"/M/artcon/package-lock.json",
+				"/M/artcon/README.md",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/layouts/_main.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/main.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/paragraphs/paragraphs-item--evidence.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/paragraphs/paragraphs-item--texte.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/pages/_homepage.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/components/_swiper.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/layouts/_header.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/content.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/paragraphs/paragraphs-item--cta.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/html.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/node/node--page.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/node/node--realisation.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/pages/_page_intern.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/components/_buttons.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/layouts/header/_navigation.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/header.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/gulpfile.js",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/pages/_realisations.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/scripts/main.js",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/paragraphs/paragraphs-item--galerie.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/layouts/page/_type.scss",
+				"/C/Users/machinist/Desktop/test_lhoist-template.html",
+				"/C/Users/machinist/Desktop/test_biow.html",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/node/node--home.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/ckeditor.styles.js",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/views/views-view.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/templates/footer.tpl.php",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/layouts/_footer.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/base/_custom.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/scripts/functions.js",
+				"/M/gulp_toolbox/src/sass/project/_mixins.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/base/_bootstrap.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/base/_fonts.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/layouts/page/_paragraphs-cta.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/node_modules/bootstrap/scss/bootstrap.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/node_modules/bootstrap/scss/_mixins.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/assets/styles/base/_drupal.scss",
+				"/C/www/MECB/sites/all/themes/custom/expansion/dist/images/logo.svg",
+				"/C/Users/machinist/Desktop/lhoist.html",
+				"//192.168.1.9/Expansion/Clients/Studio-Digital/LHOISA-16-16390-Newsletter-220916/LHOISA-16-17220-HTML/index03.html",
+				"//192.168.1.9/Expansion/Clients/Studio-Digital/LHOISA-16-16390-Newsletter-220916/LHOISA-16-17220-HTML/index02.html",
+				"/C/Users/machinist/Desktop/biow-email.html",
+				"/C/Users/machinist/AppData/Local/Temp/fz3temp-2/connection.php",
+				"/C/Users/machinist/Desktop/emailing.html",
+				"/C/www/home/ssh/id_rsa.pub",
+				"/C/www/id_rsa.pub",
+				"/C/Users/machinist/AppData/Local/Temp/fz3temp-2/connexion.php",
+				"/M/go/dist/javascript/main.js",
+				"/M/go/dist/countries.json",
+				"/M/go/src/javascript/main.js",
+				"/M/go/src/index.php",
+				"/M/FIDM/src/sass/project/modules/animations.scss",
+				"/M/FIDM/src/sass/styles.scss",
+				"/M/FIDM/src/sass/project/_typography.scss",
+				"/M/go/src/sass/project/layout/form.scss",
+				"/M/go/src/sass/project/_base.scss",
+				"/M/go/src/sass/project/_mixins.scss",
+				"/M/go/src/sass/project/_variables.scss",
+				"/M/maps_go/countries.json",
+				"/M/maps_go/mapsicon/all/as/vector.svg",
+				"/M/maps_go/mapsicon/all/au/vector.svg",
+				"/M/maps_go/mapsicon/all/at/vector.svg",
+				"/M/maps_go/index.html",
+				"/M/maps_go/mapsicon/all/at/vector1.svg",
+				"/M/maps_go/mapsicon/all/aw/vector.svg",
+				"/M/maps_go/mapsicon/all/ax/vector.svg",
+				"/M/maps_go/mapsicon/all/az/vector.svg",
+				"/M/maps_go/mapsicon/all/ba/vector.svg",
+				"/M/maps_go/mapsicon/all/bb/vector.svg",
+				"/M/maps_go/mapsicon/all/bd/vector.svg",
+				"/M/maps_go/mapsicon/all/be/vector.svg",
+				"/M/maps_go/mapsicon/all/bf/vector.svg",
+				"/M/maps_go/mapsicon/all/bg/vector.svg",
+				"/M/maps_go/mapsicon/all/bh/vector.svg",
+				"/M/maps_go/mapsicon/all/bi/vector.svg",
+				"/M/maps_go/mapsicon/all/bj/vector.svg",
+				"/M/maps_go/mapsicon/all/bl/vector.svg",
+				"/M/maps_go/mapsicon/all/bm/vector.svg",
+				"/M/maps_go/mapsicon/all/bn/vector.svg",
+				"/M/maps_go/mapsicon/all/bo/vector.svg",
+				"/M/maps_go/mapsicon/all/bq/vector.svg",
+				"/M/maps_go/mapsicon/all/br/vector.svg",
+				"/M/maps_go/mapsicon/all/bs/vector.svg",
+				"/M/maps_go/mapsicon/all/bt/vector.svg",
+				"/M/maps_go/mapsicon/all/bv/vector.svg",
+				"/M/maps_go/mapsicon/all/bw/vector.svg",
+				"/M/maps_go/mapsicon/all/by/vector.svg",
+				"/M/maps_go/mapsicon/all/bz/vector.svg",
+				"/M/maps_go/mapsicon/all/ca/vector.svg",
+				"/M/maps_go/mapsicon/all/cc/vector.svg",
+				"/M/maps_go/mapsicon/all/cd/vector.svg",
+				"/M/maps_go/mapsicon/all/cf/vector.svg",
+				"/M/maps_go/mapsicon/all/cg/vector.svg",
+				"/M/maps_go/mapsicon/all/ch/vector.svg",
+				"/M/maps_go/mapsicon/all/ci/vector.svg",
+				"/M/maps_go/mapsicon/all/ck/vector.svg",
+				"/M/maps_go/mapsicon/all/cl/vector.svg",
+				"/M/maps_go/mapsicon/all/cm/vector.svg",
+				"/M/maps_go/mapsicon/all/cn/vector.svg",
+				"/M/maps_go/mapsicon/all/co/vector.svg",
+				"/M/maps_go/mapsicon/all/cr/vector.svg"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 206.0,
+				"where_history":
+				[
+					"M:\\artcon\\src\\sass"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"mc:hideable",
+					"xl:"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/M/artcon/src/sass/project/layout/form.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 300,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										300,
+										300
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1401,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										371,
+										371
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1394,
+												1400
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1380,
+												1386
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												368,
+												370
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												341,
+												343
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"default_dir": "M:\\artcon\\src",
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/M/artcon/dist/index.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1887,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										888,
+										888
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												470,
+												471
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												431,
+												432
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												888,
+												889
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												881,
+												882
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/M/artcon/src/sass/project/layout/header.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 117,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										117,
+										117
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/SCSS/SCSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/machinist/AppData/Roaming/Sublime Text 3/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 241,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										241,
+										241
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/zzz A File Icon zzz/aliases/Shell Script (Git).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1401,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1401,
+										1401
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1394,
+												1400
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1380,
+												1386
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"default_dir": "M:\\artcon\\src",
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/M/artcon/dist/javascript/main.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1053,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										750,
+										750
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1340,
+												1341
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1339,
+												1340
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1048,
+												1049
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												749,
+												750
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/M/artcon/src/sass/project/layout/page.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1834,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										476,
+										476
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												504,
+												505
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												483,
+												484
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												497,
+												498
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												476,
+												477
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 741.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/M/artcon/src/sass/bootstrap4/_variables.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 35978,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5198,
+										5198
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3068.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 86.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,957,234,234,1324",
+			"project": "artcon.sublime-project",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"M:\\list_projects\\simonmissaghi.be.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 424.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 169,
+			"workspace_name": "/M/list_projects/artcon.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/M/list_projects/artcon.sublime-workspace",
+			"/M/list_projects/tfe_final.sublime-workspace",
+			"/M/list_projects/go_project.sublime-workspace",
+			"/M/list_projects/numastec2.sublime-workspace",
+			"/M/list_projects/tfe_.sublime-workspace",
+			"/M/list_projects/simonmissaghi.be.sublime-workspace",
+			"/M/list_projects/numastec.sublime-workspace",
+			"/M/list_projects/url_shortener.sublime-workspace",
+			"/M/list_projects/tfe.sublime-workspace",
+			"/M/list_projects/simonmissaghi.sublime-workspace",
+			"/M/list_projects/dwa.sublime-workspace",
+			"/M/list_projects/phpmyadmin.sublime-workspace"
+		]
+	}
+}

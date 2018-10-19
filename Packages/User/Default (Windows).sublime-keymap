@@ -1,0 +1,27 @@
+[
+    {
+        "keys": ["ctrl+alt+d"],
+        "command": "normalize_indentation"
+    },
+    {
+        "keys": ["ctrl+d"],
+        "command": "reindent",
+        "args":
+        {
+            "single_line": true,
+            "tab_size": 12
+
+        }
+    },
+
+    {
+        "keys": ["ctrl+alt+x"],
+        "command": "prompt_select_workspace"
+    },
+
+    {
+        "keys": ["alt+w"],
+        "command": "sass_beautify"
+    }
+]
+
